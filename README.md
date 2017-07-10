@@ -1,2 +1,2 @@
 # FindtheLooser
-A Javascript based fun game to find the person who pays the bill from given inputs.
+A Javascript based application to find the person who pays the bill from given inputs.
